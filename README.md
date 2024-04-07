@@ -1,4 +1,4 @@
-
+NoteItDown- A note pad clone using Java, swing and AWT.
 ## Folder Structure
 
 The workspace contains two folders by default, where:
